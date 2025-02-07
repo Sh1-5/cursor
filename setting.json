@@ -60,7 +60,5 @@
     "rgba(255, 127, 255, 0.2)",
     "rgba(79, 236, 236, 0.2)"
   ],
-  "leek-fund.funds": [["161725"]],
-  "leek-fund.immersiveBackground": true,
   "git.ignoreRebaseWarning": true
 }
